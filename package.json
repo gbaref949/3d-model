@@ -8,6 +8,9 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "keywords": [],
+  "author": "Georgiana Barefield (https://github.com/gbaref949)",
+  "license": "MIT",
   "dependencies": {
     "@react-three/drei": "9.75.0",
     "@react-three/fiber": "8.13.3",
